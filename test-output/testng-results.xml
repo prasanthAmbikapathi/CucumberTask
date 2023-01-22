@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6252" started-at="2023-01-14T10:55:19Z" finished-at="2023-01-14T10:55:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6252" started-at="2023-01-14T10:55:19Z" finished-at="2023-01-14T10:55:25Z">
+      <class name="org.reqres.JsonRead">
+        <test-method status="PASS" signature="dataIds()[pri:0, instance:org.reqres.JsonRead@627551fb]" name="dataIds" duration-ms="5322" started-at="2023-01-14T10:55:19Z" finished-at="2023-01-14T10:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataIds -->
+        <test-method status="PASS" signature="email()[pri:0, instance:org.reqres.JsonRead@627551fb]" name="email" duration-ms="341" started-at="2023-01-14T10:55:24Z" finished-at="2023-01-14T10:55:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- email -->
+        <test-method status="PASS" signature="firstName()[pri:0, instance:org.reqres.JsonRead@627551fb]" name="firstName" duration-ms="256" started-at="2023-01-14T10:55:25Z" finished-at="2023-01-14T10:55:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstName -->
+        <test-method status="PASS" signature="responseCode()[pri:0, instance:org.reqres.JsonRead@627551fb]" name="responseCode" duration-ms="213" started-at="2023-01-14T10:55:25Z" finished-at="2023-01-14T10:55:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseCode -->
+      </class> <!-- org.reqres.JsonRead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
